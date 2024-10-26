@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ÇağrıKOÇ - Bulmaca</string>
+    <string name="SoruYazısı">Milletçe geri kalmamızın sebebi nedir?</string>
+    <string name="ButonYazisi">Cevabı Göster</string>
+    <string name="cevapYazısı">1-Cehalet , 2-Zaruret , 3- ihtilaf</string>
+
+</resources>
